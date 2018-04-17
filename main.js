@@ -1,1 +1,1 @@
-alert("Hello, gogo");
+alert("Modify, gogo2");
